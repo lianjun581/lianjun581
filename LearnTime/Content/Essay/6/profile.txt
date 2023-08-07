@@ -1,4 +1,3 @@
----
 title: 突然袭击
 author: LianJun
 coverLink: https://lianjun581.github.io/lianjun581/LearnTime/Content/Essay/6/cover.png
@@ -9,8 +8,5 @@ index: 6
 originalLink:
 authorArray:
 originalAuthor:
----
-
-
-
+7777lianjun7777
 《界王—七千情，生死劫》第6章
