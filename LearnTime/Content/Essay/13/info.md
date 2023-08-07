@@ -1,0 +1,16 @@
+---
+title: 疗伤
+author: LianJun
+coverLink: https://lianjun581.github.io/lianjun581/LearnTime/Content/Essay/13/cover.png
+createdData: 201901
+modifiedData: 20230806072038
+type: 10
+index: 13
+originalLink:
+authorArray:
+originalAuthor:
+---
+
+
+
+《界王—七千情，生死劫》第13章
