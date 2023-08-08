@@ -1,0 +1,16 @@
+title: 零基础学习JavaScript
+author: LianJun
+coverLink: https://lianjun581.github.io/lianjun581/LearnTime/Content/Collection/1/cover.png
+createdData: 20230808135856
+modifiedData: 20230808135856
+type: 1
+index: 1
+essayIndex:
+ - 15
+ - 16
+ - 17
+originalLink:
+authorArray:
+originalAuthor:
+7777lianjun7777
+
