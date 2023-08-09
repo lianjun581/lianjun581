@@ -1,12 +1,16 @@
-title: 数据库和服务器使用入门
+title: 关于 Swift 和准备工具
 author: LianJun
-coverLink: https://lianjun581.github.io/lianjun581/LearnTime/Content/Essay/26/cover.png
-createdData: 20230808135856
-modifiedData: 20230808135856
+coverLink: https://lianjun581.github.io/lianjun581/LearnTime/Content/Essay/27/cover.png
+createdData: 20230810002152
+modifiedData: 20230810011951
 type: 43
 index: 26
 originalLink:
 authorArray:
 originalAuthor:
 7777lianjun7777
-数据库和服务器使用入门
+本文介绍了：
+
+1. Swift 可以做什么
+2. 怎么学习 Swift
+3. 编写和运行 Swift 的工具
