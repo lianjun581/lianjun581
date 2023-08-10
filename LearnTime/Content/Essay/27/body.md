@@ -1,5 +1,3 @@
-[TOC]
-
 # 关于Swift
 
 ## 介绍 Swift
